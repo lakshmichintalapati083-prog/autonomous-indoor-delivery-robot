@@ -8,8 +8,6 @@ This project implements an autonomous indoor delivery robot capable of navigatin
 You can view the full implementation here:  
 **AutonomousIndoorDeliveryRobot_CP2.ipynb**
 
-(Download path provided in ChatGPT environment)
-
 ---
 
 ## 🚀 Features
